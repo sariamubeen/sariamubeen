@@ -4,6 +4,8 @@ Hey there! I’m Saria Mubeen—your friendly neighborhood DevOps/DevSecOps Engi
 <p align="center">
   <img src="https://github.com/sariamubeen/me/blob/c11eecca5d8bcc5b4177c43a4f4f88bc6531e1a3/x.gif" alt="Saria Mubeen" width=400"/>
 </p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sariamobeen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saria-mubeen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sariamubeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SariaMubeen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sariamubeen) 
 
